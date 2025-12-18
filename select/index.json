@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Only You",
+  "base_artist": "MAZZEL",
+  "createdAt": "2025-12-18T01:34:31.263755Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Only You (Can Break My Heart)",
+      "artist": "Buck Owens",
+      "has_synced": true,
+      "path": "select/01_Only_You_(Can_Break_My_Heart)_Buck_Owens.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Only You Can Love Me This Way",
+      "artist": "Keith Urban",
+      "has_synced": true,
+      "path": "select/02_Only_You_Can_Love_Me_This_Way_Keith_Urban.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Only You",
+      "artist": "Yazoo",
+      "has_synced": true,
+      "path": "select/03_Only_You_Yazoo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Only You - Instrumental",
+      "artist": "Metro Boomin",
+      "has_synced": false,
+      "path": "select/04_Only_You_-_Instrumental_Metro_Boomin.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Only You",
+      "artist": "Metro Boomin feat. J Balvin, WizKid & Offset",
+      "has_synced": true,
+      "path": "select/05_Only_You_Metro_Boomin_feat._J_Balvin,_WizKid_&_Offset.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Only You (feat. Wizkid, Offset & J Balvin)",
+      "artist": "Metro Boomin",
+      "has_synced": true,
+      "path": "select/06_Only_You_(feat._Wizkid,_Offset_&_J_Balvin)_Metro_Boomin.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Honkide Only You (Let's Get Married)",
+      "artist": "Mariya Takeuchi",
+      "has_synced": true,
+      "path": "select/07_Honkide_Only_You_(Let's_Get_Married)_Mariya_Takeuchi.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Only You",
+      "artist": "Scatman John",
+      "has_synced": true,
+      "path": "select/08_Only_You_Scatman_John.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Only You",
+      "artist": "UNKLE",
+      "has_synced": false,
+      "path": "select/09_Only_You_UNKLE.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Only You Know",
+      "artist": "Beach House",
+      "has_synced": true,
+      "path": "select/10_Only_You_Know_Beach_House.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Only You",
+      "artist": "Fleetwood Mac",
+      "has_synced": true,
+      "path": "select/11_Only_You_Fleetwood_Mac.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Only You - 2006 Remaster",
+      "artist": "Chicago",
+      "has_synced": false,
+      "path": "select/12_Only_You_-_2006_Remaster_Chicago.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Only You",
+      "artist": "Fragma",
+      "has_synced": true,
+      "path": "select/13_Only_You_Fragma.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Only You",
+      "artist": "Lasgo",
+      "has_synced": false,
+      "path": "select/14_Only_You_Lasgo.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Only You Can Make You Happy",
+      "artist": "Au Revoir Simone",
+      "has_synced": true,
+      "path": "select/15_Only_You_Can_Make_You_Happy_Au_Revoir_Simone.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Only You",
+      "artist": "MAZZEL",
+      "has_synced": false,
+      "path": "select/pl_01_Only_You_MAZZEL.txt"
+    }
+  ]
+}
